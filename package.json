@@ -1,0 +1,27 @@
+{
+  "name": "Karina",
+  "version": "1.0.0",
+  "main": "Karina.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leonardo-ST/Karina-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leonardo-ST/Karina-/issues"
+  },
+  "homepage": "https://github.com/Leonardo-ST/Karina-#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  },
+  "devDependencies": {
+    "node": "^16.9.1"
+  },
+  "description": ""
+}
