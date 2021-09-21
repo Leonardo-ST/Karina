@@ -8,4 +8,4 @@ A Karina é um bot de música para o Discord, ou seja o intuído dela é apenas 
 O repositório é Open Source qualquer um é bem vindo para contribuir no desenvolvimento de Karina.
 
 ## 📌 Reprodutor de Músicas
-Ainda não está definido mas pretendemos usar a [Lavalink](https://github.com).
+Ainda não está definido mas pretendemos usar a [Lavalink](https://github.com/freyacodes/Lavalink).
