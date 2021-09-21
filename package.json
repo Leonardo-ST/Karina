@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/Leonardo-ST/Karina-#readme",
   "dependencies": {
-    "discord.js": "^13.1.0"
+    "discord.js": "^13.1.0",
+    "erela.js": "^2.3.3"
   },
   "devDependencies": {
     "node": "^16.9.1"
