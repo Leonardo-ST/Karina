@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Leonardo-ST/Karina-#readme",
   "dependencies": {
+    "colors": "^1.4.0",
     "discord.js": "^13.1.0",
     "erela.js": "^2.3.3"
   },
