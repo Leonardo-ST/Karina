@@ -1,11 +1,11 @@
-## Olá 👋
-Bem-vindo ao repositório da Karina.
+# Olá 👋
+Bem-vindo ao repositório de **Karina** um bot para Discord.
 
-## Você não sabe quem é a Karina?🤔
-Ta vou explicar Karina é uma bot para Discord para reproduzir música dentro do discord.
+## 🤔 Quem é a Karina?
+A Karina é um bot de música para o Discord, ou seja o intuído dela é apenas reproduzir músicas aos usuários.
 
-## Open source🫂
-O repositório é open soucer para quem quiser ajudar no desenvolvimento dela.
+## 📚 Código Fonte
+O repositório é Open Source qualquer um é bem vindo para contribuir no desenvolvimento de Karina.
 
-## O que vai fazer ela tocar as músicas?🤔
-A ideia é ser lavalink mas tô vendo se consigo fazer
+## 📌 Reprodutor de Músicas
+Ainda não está definido mas pretendemos usar a [Lavalink](https://github.com).
