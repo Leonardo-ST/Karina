@@ -5,7 +5,7 @@ const colors = require('colors')
 //Aqui começa a Karina
 const karina = new Client({ intents:32767 })
 const config = require('./config.js')
-karina.prefix = config.pefix
+karina.prefix = config.pefix //para o prefixo
 karina.commands = new Collection()
 karina.aliases = new Collection()
 //karina.database = require('./database.js')
