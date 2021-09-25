@@ -16,6 +16,7 @@ const manager = new Manager(nodes, {
     user: karina.user.id,
     shards: shardCount,
     send: (packet) => {
+// tenho que vê o que vai aqui
     }
 });
 
